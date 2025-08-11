@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="footballGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#8B4513"/>
+            <stop offset="100%" style="stop-color:#654321"/>
+        </linearGradient>
+    </defs>
+    <g transform="rotate(-45 256 256)">
+        <ellipse cx="256" cy="256" rx="200" ry="120" fill="url(#footballGradient)" />
+        <path d="M 156 256 L 356 256" stroke="white" stroke-width="8" fill="none" />
+        <path d="M 196 206 L 196 306" stroke="white" stroke-width="8" fill="none" />
+        <path d="M 236 196 L 236 316" stroke="white" stroke-width="8" fill="none" />
+        <path d="M 276 196 L 276 316" stroke="white" stroke-width="8" fill="none" />
+        <path d="M 316 206 L 316 306" stroke="white" stroke-width="8" fill="none" />
+    </g>
+</svg>
